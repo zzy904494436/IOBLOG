@@ -1,0 +1,6 @@
+#mac
+.DS_Store
+*/.DS_Store
+#vs-code
+.code-workspace
+*/.code-workspace
