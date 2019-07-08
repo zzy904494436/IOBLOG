@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>爱哼调调的博客</title>
+  
+  <subtitle>有的人比你优秀，还比你努力！！！</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="https://qindadai.club/"/>
+  <updated>2019-07-08T02:40:53.015Z</updated>
+  <id>https://qindadai.club/</id>
+  
+  <author>
+    <name>Alex Lee</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>配置HomeMac</title>
+    <link href="https://qindadai.club/2019/06/03/%E9%85%8D%E7%BD%AEHomeMac/"/>
+    <id>https://qindadai.club/2019/06/03/配置HomeMac/</id>
+    <published>2019-06-03T15:53:38.000Z</published>
+    <updated>2019-07-08T02:40:53.015Z</updated>
+    
+    <content type="html"><![CDATA[<p>##安装homebrew<br><a href="https://brew.sh/index_zh-cn.html" target="_blank" rel="noopener">https://brew.sh/index_zh-cn.html</a><br><a href="https://www.jianshu.com/p/bca8fc1ff3f0" target="_blank" rel="noopener">https://www.jianshu.com/p/bca8fc1ff3f0</a></p><p>/usr/bin/ruby -e “$(curl -fsSL <a href="https://raw.githubusercontent.com/Homebrew/install/master/install)&quot;" target="_blank" rel="noopener">https://raw.githubusercontent.com/Homebrew/install/master/install)&quot;</a></p><p>##查看md 中文文档<br><a href="https://markdown-zh.readthedocs.io/en/latest/" target="_blank" rel="noopener">https://markdown-zh.readthedocs.io/en/latest/</a></p><p>##vscode的插件推荐<br><a href="https://www.jianshu.com/p/9f13e971fe6b" target="_blank" rel="noopener">https://www.jianshu.com/p/9f13e971fe6b</a><br><a href="https://blog.csdn.net/shenxianhui1995/article/details/81604818" target="_blank" rel="noopener">https://blog.csdn.net/shenxianhui1995/article/details/81604818</a></p><p>vs md</p><p>##插件<br><a href="https://shd101wyy.github.io/markdown-preview-enhanced/#/zh-cn/" target="_blank" rel="noopener">https://shd101wyy.github.io/markdown-preview-enhanced/#/zh-cn/</a></p><p>安装wget<br><a href="https://www.jianshu.com/p/c989655e9592" target="_blank" rel="noopener">https://www.jianshu.com/p/c989655e9592</a></p><p>brew install wget</p><p>##下载oh-my-zsh<br><a href="https://segmentfault.com/a/1190000013612471" target="_blank" rel="noopener">https://segmentfault.com/a/1190000013612471</a><br><a href="http://yijiebuyi.com/blog/b9b5e1ebb719f22475c38c4819ab8151.html" target="_blank" rel="noopener">http://yijiebuyi.com/blog/b9b5e1ebb719f22475c38c4819ab8151.html</a></p><p>wget <a href="https://github.com/robbyrussell/oh-my-zsh/raw/master/tools/install.sh" target="_blank" rel="noopener">https://github.com/robbyrussell/oh-my-zsh/raw/master/tools/install.sh</a> -O - | sh</p><p>####插图</p><p>##zsh的配置说明</p><p><a href="https://wdxtub.com/2016/02/18/oh-my-zsh/" target="_blank" rel="noopener">https://wdxtub.com/2016/02/18/oh-my-zsh/</a><br><a href="https://github.com/TimothyYe/mydotfiles/blob/master/.zshrc" target="_blank" rel="noopener">https://github.com/TimothyYe/mydotfiles/blob/master/.zshrc</a></p><p>##Mac下配置android环境变量<br><a href="https://www.jianshu.com/p/84f3baf1682c" target="_blank" rel="noopener">https://www.jianshu.com/p/84f3baf1682c</a></p><p>##配置其他变量<br>tools 比如 apktool   jar2 等</p><p>##每次配置完成，需要source 或者重启iterm2</p><p>iterm2的使用</p><p>配色 </p><p>##主题</p><p>两种shortcut</p><p>##快捷键<br><a href="https://xiaozhou.net/learn-the-command-line-iterm-and-zsh-2017-06-23.html" target="_blank" rel="noopener">https://xiaozhou.net/learn-the-command-line-iterm-and-zsh-2017-06-23.html</a><br><a href="https://segmentfault.com/a/1190000013612471" target="_blank" rel="noopener">https://segmentfault.com/a/1190000013612471</a><br><a href="http://yijiebuyi.com/blog/b9b5e1ebb719f22475c38c4819ab8151.html" target="_blank" rel="noopener">http://yijiebuyi.com/blog/b9b5e1ebb719f22475c38c4819ab8151.html</a></p><p>##结束</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;##安装homebrew&lt;br&gt;&lt;a href=&quot;https://brew.sh/index_zh-cn.html&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;https://brew.sh/index_zh-cn.html&lt;/a&gt;&lt;br&gt;&lt;a href
+      
+    
+    </summary>
+    
+      <category term="unix" scheme="https://qindadai.club/categories/unix/"/>
+    
+    
+      <category term="环境搭建相关" scheme="https://qindadai.club/tags/%E7%8E%AF%E5%A2%83%E6%90%AD%E5%BB%BA%E7%9B%B8%E5%85%B3/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>网络框架的搭建</title>
+    <link href="https://qindadai.club/2019/05/16/%E7%BD%91%E7%BB%9C%E6%A1%86%E6%9E%B6%E7%9A%84%E6%90%AD%E5%BB%BA/"/>
+    <id>https://qindadai.club/2019/05/16/网络框架的搭建/</id>
+    <published>2019-05-16T07:31:08.000Z</published>
+    <updated>2019-06-04T20:12:04.000Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>业务中的视频播放器</title>
+    <link href="https://qindadai.club/2019/05/10/%E4%B8%9A%E5%8A%A1%E4%B8%AD%E7%9A%84%E8%A7%86%E9%A2%91%E6%92%AD%E6%94%BE%E5%99%A8/"/>
+    <id>https://qindadai.club/2019/05/10/业务中的视频播放器/</id>
+    <published>2019-05-10T01:35:45.000Z</published>
+    <updated>2019-06-04T20:12:04.000Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+      <category term="android" scheme="https://qindadai.club/categories/android/"/>
+    
+    
+      <category term="播放器" scheme="https://qindadai.club/tags/%E6%92%AD%E6%94%BE%E5%99%A8/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>google-2019-io观后感</title>
+    <link href="https://qindadai.club/2019/05/08/google-2019-io%E8%A7%82%E5%90%8E%E6%84%9F/"/>
+    <id>https://qindadai.club/2019/05/08/google-2019-io观后感/</id>
+    <published>2019-05-08T04:47:51.000Z</published>
+    <updated>2019-06-04T20:12:04.000Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="看了一下google的io大会，想到啥就写啥！"><a href="#看了一下google的io大会，想到啥就写啥！" class="headerlink" title="看了一下google的io大会，想到啥就写啥！"></a>看了一下google的io大会，想到啥就写啥！</h2><p>####在手机的未来发展方向上 apple一直驱动着其他厂商，从全面屏开始，apple的创新乏力已经体现出来了，全面屏是apple的一次很好的探索，虽然ios一直走在前面，但是在屏占比 和更广的可视方面，android反而走在前列，从小米mix系列开始到oppo、vivo和其他厂商的“跟风”，直到华为折叠屏手机的问世，apple的地位正在动摇，虽然ios有自己的一套闭环生态，但是来自android的冲击是越来越大的，预计在将来3-5年，手机行业即将发生颠覆性的变革，无论从通讯、设计、芯片、智能穿戴等任何方面，预计3年内的移动端硬件技术将会引导软件行业的变革，国内滞后2-3年左右</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h2 id=&quot;看了一下google的io大会，想到啥就写啥！&quot;&gt;&lt;a href=&quot;#看了一下google的io大会，想到啥就写啥！&quot; class=&quot;headerlink&quot; title=&quot;看了一下google的io大会，想到啥就写啥！&quot;&gt;&lt;/a&gt;看了一下google的io大会，想
+      
+    
+    </summary>
+    
+      <category term="随笔" scheme="https://qindadai.club/categories/%E9%9A%8F%E7%AC%94/"/>
+    
+    
+      <category term="心情 google" scheme="https://qindadai.club/tags/%E5%BF%83%E6%83%85-google/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>lean-cloud的重复计数问题</title>
+    <link href="https://qindadai.club/2019/04/24/%E5%85%B3%E4%BA%8Ehexo-Next%E4%B8%BB%E9%A2%98leancloud%E7%9A%84%E8%AE%A1%E6%95%B0%E9%97%AE%E9%A2%98/"/>
+    <id>https://qindadai.club/2019/04/24/关于hexo-Next主题leancloud的计数问题/</id>
+    <published>2019-04-24T08:22:12.000Z</published>
+    <updated>2019-06-04T20:12:04.000Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="阅读次数的统计"><a href="#阅读次数的统计" class="headerlink" title="阅读次数的统计"></a>阅读次数的统计</h2><p>我参考了<a href="https://notes.doublemine.me/2015-10-21-%E4%B8%BANexT%E4%B8%BB%E9%A2%98%E6%B7%BB%E5%8A%A0%E6%96%87%E7%AB%A0%E9%98%85%E8%AF%BB%E9%87%8F%E7%BB%9F%E8%AE%A1%E5%8A%9F%E8%83%BD.html#%E9%85%8D%E7%BD%AELeanCloud" target="_blank" rel="noopener">这个文档</a></p><h2 id="发现问题"><a href="#发现问题" class="headerlink" title="发现问题"></a>发现问题</h2><p>如图<br><img src="%E5%85%B3%E4%BA%8Ehexo-Next%E4%B8%BB%E9%A2%98leancloud%E7%9A%84%E8%AE%A1%E6%95%B0%E9%97%AE%E9%A2%98/img_31609.png" alt></p><p>这个地方会有问题 出现了下面</p><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">月底次数：31:31</span><br></pre></td></tr></table></figure><p>的情况，</p><p>通过查找 <a href>lean-cloud</a> 出现的地方,原因是<br>原来是添加了上面文档中的<br><img src="%E5%85%B3%E4%BA%8Ehexo-Next%E4%B8%BB%E9%A2%98leancloud%E7%9A%84%E8%AE%A1%E6%95%B0%E9%97%AE%E9%A2%98/img_31618.png" alt></p><p>这一条 跟 主题原来带的include 代码(86行左右)：</p><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">&#123;% include &apos;_third-party/analytics/lean-analytics.swig&apos; %&#125;</span><br></pre></td></tr></table></figure><p>冲突了，<br>所以还是事先看看有没有这句话，有的话 就不需要做操作了！</p><p>bingo！！！</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h2 id=&quot;阅读次数的统计&quot;&gt;&lt;a href=&quot;#阅读次数的统计&quot; class=&quot;headerlink&quot; title=&quot;阅读次数的统计&quot;&gt;&lt;/a&gt;阅读次数的统计&lt;/h2&gt;&lt;p&gt;我参考了&lt;a href=&quot;https://notes.doublemine.me/2015-10-2
+      
+    
+    </summary>
+    
+      <category term="前端" scheme="https://qindadai.club/categories/%E5%89%8D%E7%AB%AF/"/>
+    
+    
+      <category term="博客相关" scheme="https://qindadai.club/tags/%E5%8D%9A%E5%AE%A2%E7%9B%B8%E5%85%B3/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>腾讯智聆口语评测的状态机实现</title>
+    <link href="https://qindadai.club/2019/04/04/%E8%85%BE%E8%AE%AF%E6%99%BA%E8%81%86%E5%8F%A3%E8%AF%AD%E8%AF%84%E6%B5%8B%E7%9A%84%E7%8A%B6%E6%80%81%E6%9C%BA%E5%AE%9E%E7%8E%B0/"/>
+    <id>https://qindadai.club/2019/04/04/腾讯智聆口语评测的状态机实现/</id>
+    <published>2019-04-04T09:45:36.000Z</published>
+    <updated>2019-06-04T20:12:04.000Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h2><h3 id="语音评测的第三方公司"><a href="#语音评测的第三方公司" class="headerlink" title="语音评测的第三方公司"></a>语音评测的第三方公司</h3><p>关于语音评测的公司其实有很多，国内最著名的当然是 科大讯飞，百度语音识别等著名的公司<br>我使用和了解过的基于目前的智能音箱（类似homepod、小爱同学、天猫精灵等其他智能音箱）行业大火的基础上大受欢迎的公司有<br>讯飞、百度、腾讯、阿里等，大多把一些自己公司的业务集成在设备中，向其他小公司提供语音识别的服务，当然服务费也是基于量的基础上，是一必不小的开销，所以目前针对的主要是企业客户</p><h3 id="对比"><a href="#对比" class="headerlink" title="对比"></a>对比</h3><p>我接触过的语音识别、评测、唤醒等功能，主要是有讯飞、百度、腾讯、还有苏州的奇梦者公司和驰声 比较来讲，前几个大公司的语音识别都是基于自己的训练的模型，毫无疑问 讯飞在业界 应该是体验上的no.1<br>但是有个问题就是价格，其他的价格应该都差不多，很多需要商务洽谈的，我也不清楚具体价格，不过标准就是基于使用量吧</p><h2 id="正题（只考虑评测的情况）"><a href="#正题（只考虑评测的情况）" class="headerlink" title="正题（只考虑评测的情况）"></a>正题（只考虑评测的情况）</h2><h3 id="腾讯云下的智玲口语评测"><a href="#腾讯云下的智玲口语评测" class="headerlink" title="腾讯云下的智玲口语评测"></a>腾讯云下的智玲口语评测</h3><p><a href="https://cloud.tencent.com/product/soe" target="_blank" rel="noopener">腾讯云介绍</a></p><p><a href="https://cloud.tencent.com/document/product/884" target="_blank" rel="noopener">开发文档</a></p><h3 id="sdk接入"><a href="#sdk接入" class="headerlink" title="sdk接入"></a>sdk接入</h3><h4 id="1-权限"><a href="#1-权限" class="headerlink" title="1 权限"></a>1 权限</h4><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line">android.permission.INTERNET</span><br><span class="line">android.permission.RECORD_AUDIO</span><br><span class="line">android.permission.READ_EXTERNAL_STORAGE</span><br><span class="line">android.permission.WRITE_EXTERNAL_STORAGE</span><br></pre></td></tr></table></figure><h4 id="2-获取密钥"><a href="#2-获取密钥" class="headerlink" title="2 获取密钥"></a>2 获取密钥</h4><p>进入腾讯云后台 如下图：<br><img src="https://main.qcloudimg.com/raw/273b67bc4d38af6cb9999e9f4663d268.png" alt></p><p>配置密钥</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h2 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot; title=&quot;前言&quot;&gt;&lt;/a&gt;前言&lt;/h2&gt;&lt;h3 id=&quot;语音评测的第三方公司&quot;&gt;&lt;a href=&quot;#语音评测的第三方公司&quot; class=&quot;headerlink&quot; title=&quot;语音评测的
+      
+    
+    </summary>
+    
+      <category term="android" scheme="https://qindadai.club/categories/android/"/>
+    
+    
+      <category term="语音识别" scheme="https://qindadai.club/tags/%E8%AF%AD%E9%9F%B3%E8%AF%86%E5%88%AB/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>新的开始</title>
+    <link href="https://qindadai.club/2018/03/01/%E6%96%B0%E7%9A%84%E5%BC%80%E5%A7%8B/"/>
+    <id>https://qindadai.club/2018/03/01/新的开始/</id>
+    <published>2018-03-01T13:46:12.000Z</published>
+    <updated>2019-06-04T20:12:04.000Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="新的开始"><a href="#新的开始" class="headerlink" title="新的开始"></a>新的开始</h2><p>欢迎来到<a href="https://zzy904494436.github.io/" target="_blank" rel="noopener">我的blog</a>! 之前也有发表过一些零散的小文章在简书等平台. 今天起，我的全部心得、工作遇到的问题，心情随笔都会在这里体现. 就是简单的记录自己, 也记录问题，如果对于你也有帮助，那就算赚了.</p><h2 id="最近的感悟"><a href="#最近的感悟" class="headerlink" title="最近的感悟"></a>最近的感悟</h2><h3 id="关于android的进阶"><a href="#关于android的进阶" class="headerlink" title="关于android的进阶"></a>关于android的进阶</h3><figure class="highlight java"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">android ndk</span><br></pre></td></tr></table></figure><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">android 前端混编</span><br></pre></td></tr></table></figure><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">android 插件化</span><br></pre></td></tr></table></figure><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">android 热修复</span><br></pre></td></tr></table></figure><h3 id="关于趋势"><a href="#关于趋势" class="headerlink" title="关于趋势"></a>关于趋势</h3><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">教育、工业互联网</span><br></pre></td></tr></table></figure><h3 id="关于-公司"><a href="#关于-公司" class="headerlink" title="关于 公司"></a>关于 公司</h3><p>最近和朋友讨论创业的事情，感悟颇多，目前行业的分支越多越多，越来越细，之前一直感觉机会越来越少，其实机会越来越多，因为每一个行业的发展到一定规模，都会细分出很多分支行业，所以机会真的越来也多，技术也越来越多<br>相信技术的驱动性</p><h3 id="生活方面"><a href="#生活方面" class="headerlink" title="生活方面"></a>生活方面</h3><p>累的一比，一天工作生活一堆事情</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h2 id=&quot;新的开始&quot;&gt;&lt;a href=&quot;#新的开始&quot; class=&quot;headerlink&quot; title=&quot;新的开始&quot;&gt;&lt;/a&gt;新的开始&lt;/h2&gt;&lt;p&gt;欢迎来到&lt;a href=&quot;https://zzy904494436.github.io/&quot; target=&quot;_blank&quot; 
+      
+    
+    </summary>
+    
+      <category term="随笔" scheme="https://qindadai.club/categories/%E9%9A%8F%E7%AC%94/"/>
+    
+    
+      <category term="心情" scheme="https://qindadai.club/tags/%E5%BF%83%E6%83%85/"/>
+    
+  </entry>
+  
+</feed>
